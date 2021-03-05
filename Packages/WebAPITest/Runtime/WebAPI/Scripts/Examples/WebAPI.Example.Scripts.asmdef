@@ -1,3 +1,6 @@
 ﻿{
-	"name": "WebAPI.Example.Scripts"
+	"name": "WebAPI.Example.Scripts",
+	"references": [
+        "WebAPI.Scripts"
+    ]
 }
