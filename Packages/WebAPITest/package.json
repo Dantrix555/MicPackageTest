@@ -1,0 +1,12 @@
+{
+    "name": "com.dantrixcompany.webtest",
+    "displayName": "DantrixCompany Web Test Package",
+    "version": "0.0.1",
+    "unity": "2019.4",
+    "author": "Dantrix555",
+    "description": "Web Test package to use in package manager feature in git",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Dantrix555/ButtonsPackageTest.git#upm"
+    }
+  }
